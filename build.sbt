@@ -1,12 +1,8 @@
-name := "http4s"
+name := "http4s-template"
 
 version := "1.0-SNAPSHOT"
 
 scalaVersion := "2.12.4"
-
-//val http4sVersion = "0.15.9a"
-//val circeVersion = "0.7.1"
-//val doobieVersion = "0.4.1"
 
 libraryDependencies ++= {
   val http4sVersion = "0.18.0-M5"
